@@ -108,6 +108,15 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larrimuth",
+      "species": "Lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "11"
     }
   ]
 }
